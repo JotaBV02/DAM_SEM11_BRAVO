@@ -3,4 +3,11 @@
     <string name="Facebook_img">Facebook</string>
     <string name="Twitter_img">Twitter</string>
     <string name="Instagram_img">Instagram\n</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi Perfil</string>
 </resources>
